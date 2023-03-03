@@ -24,8 +24,7 @@ In the project backend directory, you can run on the differnt tab:
 ### `npm start`
 ![IMAGE_DESCRIPTION](https://res.cloudinary.com/duwwk4b8t/image/upload/v1677863314/Razorpay/Screenshot_2023-03-03_183325_bflgb0.png)
 ![IMAGE_DESCRIPTION](https://res.cloudinary.com/duwwk4b8t/image/upload/v1677863315/Razorpay/Screenshot_2023-03-03_183349_yu9gkz.png)
-![IMAGE_DESCRIPTION](https://res.cloudinary.com/duwwk4b8t/image/upload/v1677863315/Razorpay/Screenshot_2023-03-03_183335_bm9wgn.png.png)
-![IMAGE_DESCRIPTION](https://res.cloudinary.com/duwwk4b8t/image/upload/v1677863315/Razorpay/Screenshot_2023-03-03_183356_ndamkr.png.png)
+![IMAGE_DESCRIPTION](https://res.cloudinary.com/duwwk4b8t/image/upload/v1677863315/Razorpay/Screenshot_2023-03-03_183356_ndamkr.png)
 ![IMAGE_DESCRIPTION](https://res.cloudinary.com/duwwk4b8t/image/upload/v1677863315/Razorpay/Screenshot_2023-03-03_183428_c9e6f7.png)
 
 Runs the app in the development mode.\
